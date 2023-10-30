@@ -1,0 +1,99 @@
+
+/* Style du formulaire */
+.form {
+    width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Style des éléments du formulaire */
+  .form p {
+    margin: 0;
+  }
+  
+  .form b {
+    color: #0078d4;
+  }
+  
+  .facbok {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  .inscrit {
+   margin-left: 70%;
+    width: 30%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .form button[type="submit"] {
+    background-color: #0078d4;
+    color: white;
+  }
+  
+  .form button[type="submit"]:hover {
+    background-color: #005fa1;
+  }
+  
+  .form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .form input {
+    border: 1px solid #ccc;
+    display: block;
+    width: 90%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  
+  }
+  
+  .form a {
+  
+    text-align: left;
+    color: #37393a;
+    text-decoration: none;
+
+  }
+  .interface1{
+    display: flex;
+    padding-top: 5%;
+    
+}
+  .line {
+    display: flex;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.div1,
+.div2 {
+    background-color: gray;
+    height: 1px;
+    width: 35%;
+}
+
+.ou {
+    margin-top: -11px;
+}
+.nom_pre{
+  display: flex;
+
+}
+a{
+  text-shadow: #0078d4;
+}
+
+  
